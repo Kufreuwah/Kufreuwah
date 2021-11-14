@@ -1,0 +1,9 @@
+# kufre is a social independint phyton programer
+Kufre_Uwah = 'Son Brother Father Uncle'
+for char in Kufre:
+if len(char) % 3 == 0:
+print(char)
+elif len(char) % 5 == 0:
+Print(char)
+elif len(char) % 7 == 0:
+Print (char)
